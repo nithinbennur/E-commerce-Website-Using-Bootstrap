@@ -1,2 +1,14 @@
 # E-commerce-Website-Using-Bootstrap
-Development of E-commerce Website Using HTML,CSS and BOOTSTRAP
+Building Main Pages of E-commerce Website Using Bootstrap Framework
+
+Here is the list of the pages have to create:
+  1. Index page
+  2. Login page
+  3. Signup page
+  4. Product page
+  5. Cart page
+  6. Settings page
+  7. Success page
+  8. Logout Page
+  
+ 
